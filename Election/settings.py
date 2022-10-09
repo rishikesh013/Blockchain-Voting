@@ -121,15 +121,13 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 EMAIL_ADDRESS = 'rishikesh1113@gmail.com'
-EMAIL_PASSWORD = 'ggzhommwnjjehzhf'
-# EMAIL_ADDRESS = 'akvindian26@gmail.com'
-# EMAIL_PASSWORD = 'bqmrvpvpsvuahlor'
+EMAIL_PASSWORD = ''
 TRANSACTIONS_PER_BLOCK = 1
 #Email Settings 
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = '587'
 EMAIL_HOST_USER = 'rishikesh1113@gmail.com'
-EMAIL_HOST_PASSWORD = 'ggzhommwnjjehzhf'
+EMAIL_HOST_PASSWORD = ''
 EMAIL_USE_TLS = True
 
 # PUZZLE
